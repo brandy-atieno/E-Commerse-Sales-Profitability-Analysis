@@ -51,4 +51,8 @@ Introduce RFM-based loyalty and reactivation campaigns.
 
 Focus on high-margin categories to stabilize profitability.
 
+🧭 Outcome
+
+The analysis delivers a data-driven roadmap to optimize profitability, reduce churn, and strengthen customer loyalty — demonstrating strong analytical and storytelling skills relevant for roles in Data Analytics, Business Intelligence, and Financial Analysis.
+
 Align marketing campaigns with peak seasonal months (May, July, Oct, Dec).
